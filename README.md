@@ -1,1 +1,2 @@
-# LFN_project
+# LFN_project repository structure:
+
