@@ -1,5 +1,5 @@
 # LFN_project repository structure:
 
-- <b> LFN_final_project.ipynb </b>: the jupyter notebook that contains the project code.
-- <b>FakeNewsDataset</b>: the folder that contains the four datasets used in the project. 
+-**LFN_final_project.ipynb**: the jupyter notebook that contains the project code.
+- **FakeNewsDataset**: the folder that contains the four datasets used in the project. 
 
