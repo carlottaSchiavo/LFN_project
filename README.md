@@ -1,6 +1,6 @@
 # FAKE NEWS DETECTION
 
-**Project for the course Learning From Networks 2023-24, UniPD**
+**Project for the course Learning From Networks 2023-24, UniPD** <br />
 The goal was to build a machine learning model capable of detecting fake news shared in social media, while also analyzing the graph topology of social tweet networks to see if they hold useful information to improve such classification.
 
 ## Repository structure:
@@ -13,6 +13,6 @@ The goal was to build a machine learning model capable of detecting fake news sh
 To correctly run the code, make sure that the notebook is in the same folder of the "fakeNewsDataset" directory.
 
 ## Authors
-Anna Marchesini (https://github.com/annaamarche)
-Carlotta Schiavo (https://github.com/carlottaSchiavo)
+Anna Marchesini (https://github.com/annaamarche) <br />
+Carlotta Schiavo (https://github.com/carlottaSchiavo) <br />
 Federico Gelain (https://github.com/FedericoGelain)
