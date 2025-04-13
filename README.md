@@ -5,8 +5,8 @@ The goal was to build a machine learning model capable of detecting fake news sh
 
 ## Repository structure:
 <ul>
-  <li> **LFN_final_project.ipynb**: jupyter notebook that contains the project code. </li>
-  <li> **fakeNewsDataset**: folder that contains the four datasets used in the project. </li>
+  <li> <strong>LFN_final_project.ipynb</strong>: jupyter notebook that contains the project code. </li>
+  <li> <strong>fakeNewsDataset</strong>: folder that contains the four datasets used in the project. </li>
 </ul>
 
 ## Code execution
